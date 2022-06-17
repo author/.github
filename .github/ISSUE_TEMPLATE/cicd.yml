@@ -1,6 +1,6 @@
 ---
 name: "CI/CD Feature"
-about: Use this template to request new CI/CD features.
+description: Use this template to request new CI/CD features.
 title: "[FEATURE NAME]: Description"
 labels: cicd
 assignees: coreybutler
